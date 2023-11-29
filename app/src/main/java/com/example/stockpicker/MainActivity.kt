@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-            text = "Hello $name!",
+            text = "API Key from polygon.io = JuRQHuyOKZxaUmhCkXLgjlBPYf5cCJjp \n Instructions on how to use it are on their website: https://polygon.io/blog/jvm-stock-market-data",
             modifier = modifier
     )
 }
